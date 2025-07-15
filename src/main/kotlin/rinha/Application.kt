@@ -1,6 +1,6 @@
 package com.paiva.rinha
 
-import com.paiva.com.rinha.routes.paymentRoutes
+import com.paiva.rinha.route.paymentRoutes
 import io.ktor.server.engine.*
 import io.ktor.server.netty.*
 import io.ktor.server.application.*
